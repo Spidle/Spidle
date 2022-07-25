@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Spidle
 - 👀 I’m interested in cyber security, python and crypto currency
-- 🌱 I’m currently learning penetration testing
+- 🌱 I’m currently building pen test tools
 - 💞️ I’m looking to collaborate on crypto projects
-- 📫 How to reach me: 
+- 📫 How to reach me: Search me up on facebook
 
 <!---
 Spidle/Spidle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
