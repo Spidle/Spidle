@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Spidle
-- 👀 I’m interested in cyber security, python and crypto currency
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently building pen test tools
-- 💞️ I’m looking to collaborate on crypto projects
 - 📫 How to reach me: Search me up on facebook
 
 <!---
